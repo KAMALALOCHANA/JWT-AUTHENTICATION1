@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: Token
+
+  security:
+    user:
+      name: kamal
+      password: lochan
+
+server:
+  port:
